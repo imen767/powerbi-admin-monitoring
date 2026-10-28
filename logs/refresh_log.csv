@@ -1,0 +1,6 @@
+﻿date_utc,model_name,status,duration_seconds,error,execution_type
+2026-10-28T20:46:42.240141+00:00,Getting Started in Power BI,Timeout,,Résultat non confirmé après le délai de surveillance,REAL
+2026-10-28T20:46:47.798216+00:00,Getting Started in Power BI,Completed,9.81,,REAL
+2026-10-28T20:46:47.799819+00:00,TEST - Getting Started in Power BI,TEST_COMPLETED,10.02,"Entrée de test, aucune actualisation lancée",SIMULATION
+2026-10-28T21:08:00.548176+00:00,TEST - Getting Started in Power BI,Failed,5.0,SIMULATION : échec volontaire pour tester le journal,SIMULATION
+2026-10-28T21:10:44.088302+00:00,TEST - Getting Started in Power BI,Failed,5.0,SIMULATION : échec volontaire pour tester le journal,SIMULATION
